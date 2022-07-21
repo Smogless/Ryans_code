@@ -1,0 +1,424 @@
+.App {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  
+  background: #E9E9E9;
+}
+
+.AppMainPageBar {
+  position: absolute;
+  width: 1920px;
+  height: 79px;
+  left: 0px;
+  top: 0px;
+}
+
+.App1000{
+  position: absolute;
+  width: 121px;
+  height: 31px;
+  left: 1378px;
+  top: 24px;
+  
+  background: #DC2B2B;
+}
+
+.AppSearchAnything {
+  position: absolute;
+  width: 911px;
+  height: 76px;
+  left: 538px;
+  top: 108px;
+  
+  background: #F9F9F9;
+  border-radius: 25px;
+}
+
+.TextSearchAnything {
+  position: absolute;
+  width: 196px;
+  height: 36px;
+  left: 896px;
+  top: 124px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+  
+  color: #575757;
+}
+
+.SearchBar {
+  /* Rectangle 468 */
+  position: absolute;
+  width: 911px;
+  height: 76px;
+  left: 538px;
+  top: 108px;
+
+  background: #F9F9F9;
+  border-radius: 25px;
+
+
+  /* Search Anything */
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #575757;
+  
+  
+  /* Vector
+  position: absolute;
+  left: 31.61%;
+  right: 66.53%;
+  top: 11.94%;
+  bottom: 84.75%;
+
+  background: #000000; */
+}
+
+.New {
+  position: absolute;
+  width: 69px;
+  height: 36px;
+  left: 230px;
+  top: 243px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  
+  color: #000000;
+}
+
+.Hot {
+  position: absolute;
+  width: 64px;
+  height: 36px;
+  left: 392px;
+  top: 245px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+
+  color: #000000;
+}
+
+.Joined {
+  position: absolute;
+  width: 110px;
+  height: 36px;
+  left: 549px;
+  top: 243px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  
+  color: #000000;
+}
+
+.Saved {
+  position: absolute;
+  width: 98px;
+  height: 36px;
+  left: 752px;
+  top: 241px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  
+  color: #000000;
+  
+}
+
+.Notifications {
+  position: absolute;
+  width: 239px;
+  height: 36px;
+  left: 943px;
+  top: 244px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  
+  color: #000000;
+}
+
+.PopularCommentsOutline {
+  position: absolute;
+  width: 365px;
+  height: 343px;
+  left: 1222px;
+  top: 259px;
+  
+  background: #FFFFFF;
+  border-radius: 37px;
+}
+
+.PopularComments {
+  position: absolute;
+
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 34px;
+  /* identical to box height */
+  
+  
+  color: #000000;
+}
+
+.PopularCommentsLine {
+  position: absolute;
+  
+  border: 1px solid #000000;
+  transform: rotate(0.19deg);
+}
+
+.PopularCommentsContent {
+  position: absolute;
+  width: 268px;
+  height: 225px;
+  left: 1237px;
+  top: 334px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-decoration-line: underline;
+
+  color: #53A548;
+}
+
+.Rectangle1 {
+  position: absolute;
+  width: 863px;
+  height: 186px;
+  left: 175px;
+  top: 416px;
+  
+  background: #F9F9F9;
+  border-radius: 22px;
+}
+
+.Rectangle1Extracurricular {
+  position: absolute;
+  width: 148px;
+  height: 24px;
+  left: 248px;
+  top: 437px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;
+  
+}
+
+.Rectangle1posted {
+  position: absolute;
+  width: 198px;
+  height: 19px;
+  left: 405px;
+  top: 441px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  
+  color: #000000;  
+}
+
+.Rectangle1Student {
+  position: absolute;
+  width: 64px;
+  height: 13px;
+  left: 633px;
+  top: 441px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  
+  color: #FFFFFF;
+}
+
+.Rectangle1Ellipse {
+  position: absolute;
+  width: 95px;
+  height: 19px;
+  left: 614px;
+  top: 441px;
+  
+  background: #00C213;
+}
+
+.Rectangle1time {
+  position: absolute;
+  width: 107px;
+  height: 19px;
+  left: 780px;
+  top: 441px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  
+  color: #000000;
+}
+
+.Rectangle1message {
+  position: absolute;
+  width: 630px;
+  height: 24px;
+  left: 248px;
+  top: 487px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;  
+}
+
+.Rectangle1Reply {
+  position: absolute;
+  width: 53px;
+  height: 24px;
+  left: 286px;
+  top: 564px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;
+}
+
+.Rectangle1Repost {
+  position: absolute;
+  width: 67px;
+  height: 24px;
+  left: 401px;
+  top: 564px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;  
+}
+
+.Rectangle1Save {
+  position: absolute;
+  width: 47px;
+  height: 24px;
+  left: 530px;
+  top: 564px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;  
+}
+
+.Rectangle1Send {
+  position: absolute;
+  width: 49px;
+  height: 24px;
+  left: 639px;
+  top: 564px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;
+}
+
+.Rectangle1ID {
+  position: absolute;
+  width: 27px;
+  height: 29px;
+  left: 199px;
+  top: 485px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+  
+  
+  color: #000000;
+}
+
+.LeaderboardOutline {
+  position: absolute;
+  width: 3650px;
+  height: 2870px;
+  left: 122px;
+  top: 675px;
+
+  border-radius: 37px;
+  color: #ff0000
+}
+
+.LeaderboardText {
+  position: absolute;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #000000;
+}
